@@ -1,3 +1,6 @@
+/**
+ * 
+ */
 package br.com.rpires.dao;
 
 import java.util.List;
